@@ -1,0 +1,15 @@
+{
+    "name": "@ysimbolon/calculate-sphere-surface",
+    "version": "2.0.0",
+    "description": "Calculate sphere surface area",
+    "license": "MIT",
+    "repository": "mvgfwd/calculate-sphere-surface",
+    "main": "index.js",
+    "keywords": [
+        "calculate-sphere-surface",
+        "npm",
+        "package",
+        "ysimbolon",
+        "mvgfwd"
+    ]
+}
